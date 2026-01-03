@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm German Viter</h1>
 <h3 align="center">A computer science student in Canada</h3>
 
-- 🌱 I’m currently learning **Docker, git, bash, C**
+- 🌱 I’m currently learning **Docker, git, bash, C, python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GermanViter](https://github.com/GermanViter)
 
