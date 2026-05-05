@@ -5,6 +5,15 @@
 - 🌱 I’m currently learning **Docker, git, bash, rust, Python, SQL Server**
 
 ---
+## My skills
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,linux,python,java,javascript,bash,rust,mysql&perline=10" />
+  </a>
+  <br />
+</div>
+
+---
 
 ## My stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germanviter&theme=dark" alt="germanviter" /></p>
