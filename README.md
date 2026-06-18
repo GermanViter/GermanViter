@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm German Viter</h1>
 <h3 align="center">A computer science student in Canada</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
-- 🌱 I’m currently learning **Docker, git, bash, rust, Python, SQL Server**
 
 ---
 ## My skills
@@ -12,7 +11,6 @@
   </a>
   <br />
 </div>
-
 ---
 
 ## My stats
