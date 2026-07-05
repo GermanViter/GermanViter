@@ -7,7 +7,7 @@
 ## My skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,linux,python,java,javascript,bash,rust,mysql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,linux,python,java,javascript,bash,rust,vim,mysql&perline=10" />
   </a>
   <br />
 </div>
