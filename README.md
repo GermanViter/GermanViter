@@ -3,6 +3,12 @@
 <h3 align="center">A computer science student in Canada</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
 
+<div align="center">
+  <picture>
+    <img src="neofetch.svg" width="100%" alt="Developer Profile Neofetch Terminal" />
+  </picture>
+</div>
+
 ---
 ## My skills
 <div align="center">
