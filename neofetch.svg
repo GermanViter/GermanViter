@@ -1,38 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1262" height="528" viewBox="0 0 1262 528">
-<rect width="100%" height="100%" rx="14" fill="#161b22" stroke="#30363d"/>
-<g font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace" font-size="18" xml:space="preserve">
-<text x="44" y="57" fill="#c9d1d9">                    :</text>
-<text x="44" y="80" fill="#c9d1d9">            =====---:::......</text>
-<text x="44" y="103" fill="#c9d1d9">        ===++++===---:::::::::::.</text>
-<text x="44" y="126" fill="#c9d1d9">      ==++++++++====------------:::</text>
-<text x="44" y="149" fill="#c9d1d9">    ==+++*****++++=============---::.</text>
-<text x="44" y="172" fill="#c9d1d9">   ==++*********++++++++++++++===--:..</text>
-<text x="44" y="195" fill="#c9d1d9">  ==++***********************+++==-:..</text>
-<text x="44" y="218" fill="#c9d1d9"> ==++*************##########***+==-:..</text>
-<text x="44" y="241" fill="#c9d1d9"> =++**********#####%%%%%%%%##**+==-:.</text>
-<text x="44" y="264" fill="#c9d1d9"> +++*********####%%@@@@@@%%%##*+==-:.</text>
-<text x="44" y="287" fill="#c9d1d9">=++++*********##%%@@@@@@@@%%#**+=-:..</text>
-<text x="44" y="310" fill="#c9d1d9"> =+++++++++***##%%@@@@@@@@%##*+=--:.</text>
-<text x="44" y="333" fill="#c9d1d9"> ======+++++***##%%@@@@@%%##*+==-:..</text>
-<text x="44" y="356" fill="#c9d1d9"> ==========++**###%%%%%%%##*+==-:..</text>
-<text x="44" y="379" fill="#c9d1d9">  -------===++**####%####*++=--:..</text>
-<text x="44" y="402" fill="#c9d1d9">   :::::---==++***####**++==-::..</text>
-<text x="44" y="425" fill="#c9d1d9">    ..::::--==+++****+++==-::..</text>
-<text x="44" y="448" fill="#c9d1d9">      ..:::--===+++++==--::..</text>
-<text x="44" y="471" fill="#c9d1d9">        ..::--======---::..</text>
-<text x="44" y="494" fill="#c9d1d9">            :------:::..</text>
-<text x="516.0" y="126"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">OS:</tspan><tspan fill="#6e7681"> ................................................ </tspan><tspan fill="#a5d6ff">omarchy 4.5</tspan></text>
-<text x="516.0" y="149"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Uptime:</tspan><tspan fill="#6e7681"> ............................................... </tspan><tspan fill="#a5d6ff">18 yr(s)</tspan></text>
-<text x="516.0" y="172"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Kernel:</tspan><tspan fill="#6e7681"> ............................................. </tspan><tspan fill="#a5d6ff">IT Student</tspan></text>
-<text x="516.0" y="195"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">IDE:</tspan><tspan fill="#6e7681"> ................................. </tspan><tspan fill="#a5d6ff">Neovim, IntelliJ, VS Code</tspan></text>
-<text x="516.0" y="218" fill="#6e7681">.</text>
-<text x="516.0" y="241"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Languages.Programming:</tspan><tspan fill="#6e7681"> ............. </tspan><tspan fill="#a5d6ff">Python, Java, SQL, Lua, PHP</tspan></text>
-<text x="516.0" y="264"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Languages.Computer:</tspan><tspan fill="#6e7681"> .......... </tspan><tspan fill="#a5d6ff">HTML, CSS, JSON, YAML, TOML, Bash</tspan></text>
-<text x="516.0" y="287"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Languages.Real:</tspan><tspan fill="#6e7681"> .............. </tspan><tspan fill="#a5d6ff">Russian, French, English, Spanish</tspan></text>
-<text x="516.0" y="310" fill="#6e7681">.</text>
-<text x="516.0" y="333"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Hobbies.Software:</tspan><tspan fill="#6e7681"> ................. </tspan><tspan fill="#a5d6ff">Homelabbing, Ricing Dotfiles</tspan></text>
-<text x="516.0" y="356"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Hobbies.Real:</tspan><tspan fill="#6e7681"> .............. </tspan><tspan fill="#a5d6ff">Chess, Thrash &amp; Heavy Metal, Skiing</tspan></text>
-<text x="516.0" y="379" fill="#6e7681">.</text>
-<text x="516.0" y="402" fill="#c9d1d9">- <tspan>Contact</tspan> <tspan fill="#6e7681">─────────────────────────────────────────────────────-─-</tspan></text>
-<text x="516.0" y="425"><tspan fill="#6e7681">. </tspan><tspan fill="#f0883e">Email:</tspan><tspan fill="#6e7681"> .................................. </tspan><tspan fill="#a5d6ff">viter.german@gmail.com</tspan></text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+  <defs>
+    <style>
+      @font-face {
+        src: local('Consolas'), local('Consolas Bold');
+        font-family: 'ConsolasFallback';
+        font-display: swap;
+        -webkit-size-adjust: 109%;
+        size-adjust: 109%;
+      }
+      .key { fill: #ffa657; }
+      .value { fill: #a5d6ff; }
+      .cc { fill: #616e7f; }
+      text, tspan {
+        white-space: pre;
+      }
+    </style>
+  </defs>
+  <rect width="985px" height="530px" fill="#161b22" rx="15" stroke="#30363d" stroke-width="1"/>
+  
+  <text x="390" y="30" fill="#c9d1d9">
+    <tspan x="390" y="30"><tspan class="user">germanv</tspan>@<tspan class="host">8080</tspan></tspan> -———————————————————————————————————————————-—-
+    <tspan x="390" y="50" class="cc">. </tspan>
+    <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Omarchy 4.5</tspan>
+    <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">18 yrs</tspan>
+    <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">IT student</tspan>
+    <tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">neovim, intellij and vscode</tspan>
+    <tspan x="390" y="170" class="cc">. </tspan>
+    <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, Java, Lua, Qml</tspan>
+    <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Bash, TOML</tspan>
+    <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">English, French, Russian, Spanish</tspan>
+    <tspan x="390" y="250" class="cc">. </tspan>
+    <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">homelabing, linux ricing, working with agents</tspan>
+    <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hiking, skiing, heavy metal, Chess</tspan>
+    <tspan x="390" y="310" class="cc">. </tspan>
+    <tspan x="390" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
+    <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">viter.german@gmail.com</tspan>
+    <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">German Viter</tspan>
+    <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Germanovitchh</tspan>
+    <tspan x="390" y="430" class="cc">. </tspan>
+  </text>
+</svg>
