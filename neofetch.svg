@@ -19,24 +19,24 @@
   <rect width="985px" height="530px" fill="#161b22" rx="15" stroke="#30363d" stroke-width="1"/>
   
   <text x="390" y="30" fill="#c9d1d9">
-    <tspan x="390" y="30"><tspan class="user">germanv</tspan>@<tspan class="host">8080</tspan></tspan> -———————————————————————————————————————————-—-
-    <tspan x="390" y="50" class="cc">. </tspan>
-    <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Omarchy 4.5</tspan>
-    <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">18 yrs</tspan>
-    <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">IT student</tspan>
-    <tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">neovim, intellij and vscode</tspan>
-    <tspan x="390" y="170" class="cc">. </tspan>
-    <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, Java, Lua, Qml</tspan>
-    <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Bash, TOML</tspan>
-    <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">English, French, Russian, Spanish</tspan>
-    <tspan x="390" y="250" class="cc">. </tspan>
-    <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">homelabing, linux ricing, working with agents</tspan>
-    <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hiking, skiing, heavy metal, Chess</tspan>
-    <tspan x="390" y="310" class="cc">. </tspan>
-    <tspan x="390" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
-    <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">viter.german@gmail.com</tspan>
-    <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">German Viter</tspan>
-    <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Germanovitchh</tspan>
-    <tspan x="390" y="430" class="cc">. </tspan>
+    <tspan x="90" y="30"><tspan class="user">germanv</tspan>@<tspan class="host">8080</tspan></tspan> -———————————————————————————————————————————-—-
+    <tspan x="90" y="50" class="cc">. </tspan>
+    <tspan x="90" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Omarchy 4.5</tspan>
+    <tspan x="90" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">18 yrs</tspan>
+    <tspan x="90" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">IT student</tspan>
+    <tspan x="90" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">neovim, intellij and vscode</tspan>
+    <tspan x="90" y="170" class="cc">. </tspan>
+    <tspan x="90" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, Java, Lua, Qml</tspan>
+    <tspan x="90" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Bash, TOML</tspan>
+    <tspan x="90" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">English, French, Russian, Spanish</tspan>
+    <tspan x="90" y="250" class="cc">. </tspan>
+    <tspan x="90" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">homelabing, linux ricing, working with agents</tspan>
+    <tspan x="90" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hiking, skiing, heavy metal, Chess</tspan>
+    <tspan x="90" y="310" class="cc">. </tspan>
+    <tspan x="90" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
+    <tspan x="90" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">viter.german@gmail.com</tspan>
+    <tspan x="90" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">German Viter</tspan>
+    <tspan x="90" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Germanovitchh</tspan>
+    <tspan x="90" y="430" class="cc">. </tspan>
   </text>
 </svg>
