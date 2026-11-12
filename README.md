@@ -18,18 +18,16 @@
 
 ---
 ## My skills
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,linux,python,java,javascript,bash,rust,vim,mysql,arduino,raspberrypi&perline=10" />
-      </a>
-    </td>
-    <td valign="top" align="right">
-      <img src="giphy.gif" width="300" alt="Developer Profile Neofetch Terminal" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,linux,python,java,javascript,bash,rust,vim,mysql,arduino,raspberrypi&perline=10" />
+    </a>
+  </div>
+  <div>
+    <img src="giphy.gif" width="300" alt="Developer Profile Neofetch Terminal" />
+  </div>
+</div>
 
 ---
 
