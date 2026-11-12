@@ -15,6 +15,12 @@
 </div>
 
 ---
+
+## Currently working on
+ 
+- 🏗️ **[projet_architecture_logiciel](https://github.com/GermanViter/projet_architecture_logiciel)**: a cégep project for my software architecture class, written in Java.
+
+---
  
 ## Projects
 
