@@ -44,6 +44,7 @@
     </td>
   </tr>
 </table>
+
 ---
  
 ## My skills
@@ -60,7 +61,7 @@
     </td>
   </tr>
 </table>
----
+
  
 ## My stats
 <p align="center">
