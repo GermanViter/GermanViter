@@ -19,7 +19,7 @@
 ## Currently working on
  
 - 🏗️ **[projet_architecture_logiciel](https://github.com/GermanViter/projet_architecture_logiciel)**: a cégep project for my software architecture class, written in Java.
-- 💡**[graph-your-x](https://github.com/GermanViter/graph-your-x)**: A helper for students trying to learn new subjects by graphing a path for them (made initaly for the HackDécouverte hackathon at the univerisity of Concordia)
+- 💡 **[graph-your-x](https://github.com/GermanViter/graph-your-x)**: A helper for students trying to learn new subjects by graphing a path for them (made initaly for the HackDécouverte hackathon at the univerisity of Concordia)
 
 ---
  
