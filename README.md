@@ -6,6 +6,9 @@
     <img src="neofetch.svg" width="100%" alt="Terminal-style neofetch profile card" />
   </picture>
   <br/>
+  <a href="https://germanviter.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-germanviter.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/german-viter-32b0b6388" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
