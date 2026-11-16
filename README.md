@@ -10,10 +10,13 @@
     <img src="https://img.shields.io/badge/Portfolio-germanviter.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/german-viter-32b0b6388" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:viter.german@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/germanovitchh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
@@ -22,6 +25,7 @@
 ## Currently working on
  
 - 🏗️ **[projet_architecture_logiciel](https://github.com/GermanViter/projet_architecture_logiciel)**: a cégep project for my software architecture class, written in Java.
+- 💡 **[graph-your-x](https://github.com/GermanViter/graph-your-x)**: A helper for students trying to learn new subjects by graphing a path for them (made initaly for the HackDécouverte hackathon at the univerisity of Concordia)
 
 ---
  
